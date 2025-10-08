@@ -5,6 +5,7 @@ Coding agent challenge which write custom parsers for Bank statement PDF.
 1. Create venv and install deps:
    - Windows PowerShell:
      - `py -m venv .venv`
+<<<<<<< HEAD
      - `.venv\\Scripts\\Activate.ps1`
      - `pip install -r requirements.txt`
 2. Ensure sample data present under `data/icici/` including a PDF and `result.csv`.
